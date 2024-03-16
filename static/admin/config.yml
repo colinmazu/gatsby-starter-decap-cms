@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: repo: colinmazu/gatsby-starter-decap-cms
+  repo: colinmazu/gatsby-starter-decap-cms
   branch: main
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
